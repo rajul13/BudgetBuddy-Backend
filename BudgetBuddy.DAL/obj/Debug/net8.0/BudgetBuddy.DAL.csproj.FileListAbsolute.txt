@@ -1,0 +1,17 @@
+D:\BudgetBuddy\BudgetBuddy.DAL\bin\Debug\net8.0\BudgetBuddy.DAL.deps.json
+D:\BudgetBuddy\BudgetBuddy.DAL\bin\Debug\net8.0\BudgetBuddy.DAL.runtimeconfig.json
+D:\BudgetBuddy\BudgetBuddy.DAL\bin\Debug\net8.0\BudgetBuddy.DAL.dll
+D:\BudgetBuddy\BudgetBuddy.DAL\bin\Debug\net8.0\BudgetBuddy.DAL.pdb
+D:\BudgetBuddy\BudgetBuddy.DAL\bin\Debug\net8.0\BudgetBuddy.Domain.dll
+D:\BudgetBuddy\BudgetBuddy.DAL\bin\Debug\net8.0\BudgetBuddy.Domain.pdb
+D:\BudgetBuddy\BudgetBuddy.DAL\obj\Debug\net8.0\BudgetBuddy.DAL.csproj.AssemblyReference.cache
+D:\BudgetBuddy\BudgetBuddy.DAL\obj\Debug\net8.0\BudgetBuddy.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BudgetBuddy\BudgetBuddy.DAL\obj\Debug\net8.0\BudgetBuddy.DAL.AssemblyInfoInputs.cache
+D:\BudgetBuddy\BudgetBuddy.DAL\obj\Debug\net8.0\BudgetBuddy.DAL.AssemblyInfo.cs
+D:\BudgetBuddy\BudgetBuddy.DAL\obj\Debug\net8.0\BudgetBuddy.DAL.csproj.CoreCompileInputs.cache
+D:\BudgetBuddy\BudgetBuddy.DAL\obj\Debug\net8.0\BudgetBu.F99B1933.Up2Date
+D:\BudgetBuddy\BudgetBuddy.DAL\obj\Debug\net8.0\BudgetBuddy.DAL.dll
+D:\BudgetBuddy\BudgetBuddy.DAL\obj\Debug\net8.0\refint\BudgetBuddy.DAL.dll
+D:\BudgetBuddy\BudgetBuddy.DAL\obj\Debug\net8.0\BudgetBuddy.DAL.pdb
+D:\BudgetBuddy\BudgetBuddy.DAL\obj\Debug\net8.0\BudgetBuddy.DAL.genruntimeconfig.cache
+D:\BudgetBuddy\BudgetBuddy.DAL\obj\Debug\net8.0\ref\BudgetBuddy.DAL.dll

@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BudgetBuddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58FBBDEC-3B86-4286-BB79-53182C5F9F28}|BudgetBuddy.Domain\\BudgetBuddy.Domain.csproj|d:\\budgetbuddy\\budgetbuddy.domain\\models\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FBBDEC-3B86-4286-BB79-53182C5F9F28}|BudgetBuddy.Domain\\BudgetBuddy.Domain.csproj|solutionrelative:budgetbuddy.domain\\models\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AC548D-08CA-4C93-8E60-BC917B13987F}|BudgetBuddy.Service\\BudgetBuddy.Service.csproj|d:\\budgetbuddy\\budgetbuddy.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AC548D-08CA-4C93-8E60-BC917B13987F}|BudgetBuddy.Service\\BudgetBuddy.Service.csproj|solutionrelative:budgetbuddy.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3E61E1-6BD6-4127-9BE3-11E56138EF5F}|BudgetBuddy\\BudgetBuddy.API.csproj|d:\\budgetbuddy\\budgetbuddy\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3E61E1-6BD6-4127-9BE3-11E56138EF5F}|BudgetBuddy\\BudgetBuddy.API.csproj|solutionrelative:budgetbuddy\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D19EC-E5C6-4DA3-8FF0-1F2208C94EE2}|BudgetBuddy.DAL\\BudgetBuddy.DAL.csproj|d:\\budgetbuddy\\budgetbuddy.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D19EC-E5C6-4DA3-8FF0-1F2208C94EE2}|BudgetBuddy.DAL\\BudgetBuddy.DAL.csproj|solutionrelative:budgetbuddy.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FBBDEC-3B86-4286-BB79-53182C5F9F28}|BudgetBuddy.Domain\\BudgetBuddy.Domain.csproj|d:\\budgetbuddy\\budgetbuddy.domain\\models\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FBBDEC-3B86-4286-BB79-53182C5F9F28}|BudgetBuddy.Domain\\BudgetBuddy.Domain.csproj|solutionrelative:budgetbuddy.domain\\models\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FBBDEC-3B86-4286-BB79-53182C5F9F28}|BudgetBuddy.Domain\\BudgetBuddy.Domain.csproj|d:\\budgetbuddy\\budgetbuddy.domain\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FBBDEC-3B86-4286-BB79-53182C5F9F28}|BudgetBuddy.Domain\\BudgetBuddy.Domain.csproj|solutionrelative:budgetbuddy.domain\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FBBDEC-3B86-4286-BB79-53182C5F9F28}|BudgetBuddy.Domain\\BudgetBuddy.Domain.csproj|d:\\budgetbuddy\\budgetbuddy.domain\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FBBDEC-3B86-4286-BB79-53182C5F9F28}|BudgetBuddy.Domain\\BudgetBuddy.Domain.csproj|solutionrelative:budgetbuddy.domain\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FBBDEC-3B86-4286-BB79-53182C5F9F28}|BudgetBuddy.Domain\\BudgetBuddy.Domain.csproj|d:\\budgetbuddy\\budgetbuddy.domain\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FBBDEC-3B86-4286-BB79-53182C5F9F28}|BudgetBuddy.Domain\\BudgetBuddy.Domain.csproj|solutionrelative:budgetbuddy.domain\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FBBDEC-3B86-4286-BB79-53182C5F9F28}|BudgetBuddy.Domain\\BudgetBuddy.Domain.csproj|d:\\budgetbuddy\\budgetbuddy.domain\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FBBDEC-3B86-4286-BB79-53182C5F9F28}|BudgetBuddy.Domain\\BudgetBuddy.Domain.csproj|solutionrelative:budgetbuddy.domain\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\BudgetBuddy\\BudgetBuddy.Domain\\Models\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy.Domain\\Models\\Dtos\\LoginDto.cs",
+              "ToolTip": "D:\\BudgetBuddy\\BudgetBuddy.Domain\\Models\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "BudgetBuddy.Domain\\Models\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:11:45.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\BudgetBuddy\\BudgetBuddy.Domain\\Contracts\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy.Domain\\Contracts\\IUserRepository.cs",
+              "ToolTip": "D:\\BudgetBuddy\\BudgetBuddy.Domain\\Contracts\\IUserRepository.cs",
+              "RelativeToolTip": "BudgetBuddy.Domain\\Contracts\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:23:37.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "D:\\BudgetBuddy\\BudgetBuddy.Domain\\Models\\Dtos\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy.Domain\\Models\\Dtos\\CreateUserDto.cs",
+              "ToolTip": "D:\\BudgetBuddy\\BudgetBuddy.Domain\\Models\\Dtos\\CreateUserDto.cs",
+              "RelativeToolTip": "BudgetBuddy.Domain\\Models\\Dtos\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:05:01.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\BudgetBuddy\\BudgetBuddy.DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy.DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\BudgetBuddy\\BudgetBuddy.DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BudgetBuddy.DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:48:04.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\BudgetBuddy\\BudgetBuddy\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\BudgetBuddy\\BudgetBuddy\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BudgetBuddy\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:45:13.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\BudgetBuddy\\BudgetBuddy.Service\\UserService.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy.Service\\UserService.cs",
+              "ToolTip": "D:\\BudgetBuddy\\BudgetBuddy.Service\\UserService.cs",
+              "RelativeToolTip": "BudgetBuddy.Service\\UserService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAmwGgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:26:17.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\BudgetBuddy\\BudgetBuddy.Domain\\Contracts\\IUserService.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy.Domain\\Contracts\\IUserService.cs",
+              "ToolTip": "D:\\BudgetBuddy\\BudgetBuddy.Domain\\Contracts\\IUserService.cs",
+              "RelativeToolTip": "BudgetBuddy.Domain\\Contracts\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:25:11.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\BudgetBuddy\\BudgetBuddy.Domain\\Models\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy.Domain\\Models\\Entities\\UserEntity.cs",
+              "ToolTip": "D:\\BudgetBuddy\\BudgetBuddy.Domain\\Models\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "BudgetBuddy.Domain\\Models\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:34:05.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\BudgetBuddy\\BudgetBuddy.Domain\\Models\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy.Domain\\Models\\Dtos\\UserDto.cs",
+              "ToolTip": "D:\\BudgetBuddy\\BudgetBuddy.Domain\\Models\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "BudgetBuddy.Domain\\Models\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:15:40.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

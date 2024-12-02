@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BKp7Pzbz1g9HU4fZm6/LirtWSQqmjZCZdlBGZrdvnts=",
+  "Source": "BudgetBuddy.API",
+  "BasePath": "_content/BudgetBuddy.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

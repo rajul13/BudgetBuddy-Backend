@@ -1,0 +1,14 @@
+D:\BudgetBuddy\BudgetBuddy.Domain\bin\Debug\net8.0\BudgetBuddy.Domain.deps.json
+D:\BudgetBuddy\BudgetBuddy.Domain\bin\Debug\net8.0\BudgetBuddy.Domain.runtimeconfig.json
+D:\BudgetBuddy\BudgetBuddy.Domain\bin\Debug\net8.0\BudgetBuddy.Domain.dll
+D:\BudgetBuddy\BudgetBuddy.Domain\bin\Debug\net8.0\BudgetBuddy.Domain.pdb
+D:\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.csproj.AssemblyReference.cache
+D:\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.AssemblyInfoInputs.cache
+D:\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.AssemblyInfo.cs
+D:\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.csproj.CoreCompileInputs.cache
+D:\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.dll
+D:\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\refint\BudgetBuddy.Domain.dll
+D:\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.pdb
+D:\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\BudgetBuddy.Domain.genruntimeconfig.cache
+D:\BudgetBuddy\BudgetBuddy.Domain\obj\Debug\net8.0\ref\BudgetBuddy.Domain.dll
